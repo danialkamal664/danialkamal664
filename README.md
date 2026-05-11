@@ -2,7 +2,7 @@
 
 📍 Erlangen, Germany  
 📧 danialkamal664@gamil.com
-🔗 LinkedIn: (https://www.linkedin.com/in/danialkamal/)
+🔗 LinkedIn: linkedin.com/in/danialkamal
 
 ---
 

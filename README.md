@@ -2,7 +2,7 @@
 
 📍 Erlangen, Germany  
 📧 danialkamal664@gmail.com  
-🔗 LinkedIn: linkedin.com/in/danialkamal  
+🔗 LinkedIn: https://www.linkedin.com/in/danialkamal/ 
 
 ---
 

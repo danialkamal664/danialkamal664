@@ -1,7 +1,7 @@
 # Muhammad Danial Kamal
 
 📍 Erlangen, Germany  
-📧 danialkamal664@gamil.com
+📧 danialkamal664@gamil.com 
 🔗 LinkedIn: linkedin.com/in/danialkamal
 
 ---

@@ -1,11 +1,10 @@
 # Muhammad Danial Kamal
 
 📍 Erlangen, Germany  
-📧 danialkamal664@gamil.com 
-🔗 LinkedIn: linkedin.com/in/danialkamal
+📧 danialkamal664@gmail.com  
+🔗 LinkedIn: linkedin.com/in/danialkamal  
 
 ---
-
 
 
 Software Engineer and Data Scientist with 3+ years of production ML experience across NLP, deep learning, graph analytics, and GenAI. Proven track record building end-to-end ML pipelines, containerized microservices with Docker, and LLM-powered applications deployed on AWS. Experienced in MLOps practices including CI/CD automation, model monitoring, and drift detection, with hands-on work delivering scalable FastAPI-based model serving and GenAI query interfaces in Agile environments. Currently pursuing an M.Sc. in Data Science at FAU Erlangen-Nürnberg, deepening a strong foundation in statistical inference, optimisation, and probabilistic modelling.

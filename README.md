@@ -1,14 +1,14 @@
-# Kalsoom Waseem
+# Muhammad Danial Kamal
 
 📍 Erlangen, Germany  
-📧 kalsoomwaseem@outlook.com  
-🔗 LinkedIn: linkedin.com/in/kalsoom-waseem  
+📧 danialkamal664@gamil.com
+🔗 LinkedIn: (https://www.linkedin.com/in/danialkamal/)
 
 ---
 
 
 
-Software engineer and product developer with experience building full-stack web applications using the MERN stack (React, Next.js, Node.js) and backend systems in Python. I’ve worked on integrating GenAI features such as LLM-based summarization, retrieval-augmented workflows, and conversational assistants into real products. My work focuses on translating domain requirements into scalable features, rapid MVP development, and shipping production-ready systems in collaborative environments.
+Software Engineer and Data Scientist with 3+ years of production ML experience across NLP, deep learning, graph analytics, and GenAI. Proven track record building end-to-end ML pipelines, containerized microservices with Docker, and LLM-powered applications deployed on AWS. Experienced in MLOps practices including CI/CD automation, model monitoring, and drift detection, with hands-on work delivering scalable FastAPI-based model serving and GenAI query interfaces in Agile environments. Currently pursuing an M.Sc. in Data Science at FAU Erlangen-Nürnberg, deepening a strong foundation in statistical inference, optimisation, and probabilistic modelling.
 
 ---
 
@@ -52,12 +52,12 @@ Software engineer and product developer with experience building full-stack web 
 
 ## Education
 
-### Master of Science in Data Science(2025-2027) 
+### Master of Science in Data Science(2025-present) 
 **Friedrich-Alexander-Universität Erlangen–Nürnberg (FAU), Germany**  
 *Focus: Artificial Intelligence, Machine Learning, Medical Data Science*  
 
 ### Bachelor of Science in Computer Science(2019-2023)  
-**National University of Sciences and Technology (NUST), Pakistan**
+**NFC Institute of Engineering & Technology**
 
 ---
 
@@ -66,5 +66,5 @@ Software engineer and product developer with experience building full-stack web 
 - Gen AI technologies(LLM, RAG, Agents)
 - Data driven Systems
 - User centered Software Design
-- Digital Health & Medical Informatics
-- Women’s Health Awareness & Community Engagement
+- Business Analysis(Agile & Lean Methodologies,Product Strategy)
+- Energy Analysis(Climate Policy & Regulation)
